@@ -1,16 +1,44 @@
-### Hi there 👋
+<h1>👋🏽 Bienvenue sur mon Profil</h2>
 
-<!--
-**Michael-Cavata/Michael-CAVATA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <p> Développeur Full Stack </p>
+  - J'aime apprendre de nouvelles choses  
+  - Passionner d'informatique et de nouvelles technologies  
 
-Here are some ideas to get you started:
+### Langages
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)  
+![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frameworks et Librairies
+![SYMFONY](https://img.shields.io/badge/symfony-%2320232a.svg?style=for-the-badge&logo=symfony&logoColor=fff)
+![VUE.JS](https://img.shields.io/badge/vue.js-%2320232a.svg?style=for-the-badge&logo=vue.js&logoColor=OC08D)
+![NUXT.JS](https://img.shields.io/badge/nuxt.js-%2320232a.svg?style=for-the-badge&logo=nuxt.js&logoColor=00DC82)  
+![NPM](https://img.shields.io/badge/NPM-%2320232a.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+
+### Base de Données
+![MYSQL](https://img.shields.io/badge/mysql-6C78AF.svg?style=for-the-badge&logo=mysql&logoColor=fff)
+![POSTGRESQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=fff)
+![SQLITE](https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=fff)
+
+### Versionning
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%2320232a.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### IDE
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PHPSTORM](https://img.shields.io/badge/PhpStorm-%2320232a.svg?style=for-the-badge&logo=phpstorm&logoColor=white)
+![SUBLIM](https://img.shields.io/badge/sublim-FF9800.svg?style=for-the-badge&logo=sublime-text&logoColor=white)
+
+### OPERATING SYSTEM
+![WINDOWS](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
+![LINUX](https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+![DOCKER](https://img.shields.io/badge/docker-%2320232a.svg?style=for-the-badge&logo=docker&logoColor=2496ED)
+
+### Contact 
+[![Linkedin](https://img.shields.io/badge/-Michael%20CAVATA-0A66C2?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/michael-cavata/)
+
+### STATS
+<img src="https://github-readme-stats.vercel.app/api?username=Michael-CAVATA&hide=stars&show_icons=true&theme=blueberry" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-CAVATA&layout=compact&theme=blueberry" />
