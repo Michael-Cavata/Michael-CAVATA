@@ -38,7 +38,3 @@
 
 ### Contact 
 [![Linkedin](https://img.shields.io/badge/-Michael%20CAVATA-0A66C2?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/michael-cavata/)
-
-### STATS
-<img src="https://github-readme-stats.vercel.app/api?username=Michael-Cavata&hide=stars&show_icons=true&theme=blueberry" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Cavata&layout=compact&theme=blueberry" />
